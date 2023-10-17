@@ -2,7 +2,7 @@
 
 ## Description
 
-Thisproject is an assignment that students are required to complete before the start of the Front-End Web Development bootcamp. The purpose of this project is to introduce students to the basics of programming and ensure that they have the foundational knowledge needed to succeed in the bootcamp. It involves a series of exercises and challenges that cover topics such as HTML, CSS, JavaScript and Git.
+This project is an assignment that students are required to complete before the start of the Front-End Web Development bootcamp. The purpose of this project is to introduce students to the basics of programming and ensure that they have the foundational knowledge needed to succeed in the bootcamp. It involves a series of exercises and challenges that cover topics such as HTML, CSS, JavaScript and Git.
 
 ## Installation
 
